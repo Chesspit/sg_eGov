@@ -1,1 +1,23 @@
+/* assets/style.css */
+.container {
+    padding: 20px;
+    width: 50%;
+}
+
+.message {
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.user-message {
+    text-align: left;
+    background-color: #DDF8E8;
+}
+
+.ai-message {
+    text-align: right;
+    background-color: #EEE;
+}
+
 
