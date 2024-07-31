@@ -15,9 +15,9 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ---
 
-### Datensatz: Belegung neu erstellter Wohnungen
+### Datensatz: XXX
 [Datenquelle](https://daten.stadt.sg.ch/explore/dataset/belegung-neu-erstellter-wohnungen-2011-2019/information/?disjunctive.ewid&disjunctive.belegungsjahr&disjunctive.bauperiode&disjunctive.quartiersgruppe&disjunctive.quartiersgruppe_name&disjunctive.wohnungsgroesse&disjunctive.anz_kinder&disjunctive.anz_erwachsene&disjunctive.hh_typ&disjunctive.hh_typ_label&disjunctive.erstellungsjahr)
-verfügbar auf dem Open Data Portal der Stadt St.Gallen.
+abcd
 
-### Info des Herausgebers: (Fachstelle für Statistik Kanton St.Gallen)
-In diesem Datensatz sind die Informationen zu den neu erstellten Wohnungen in der Stadt St.Gallen (Erstellungsjahr, Anzahl Zimmer, Quartier, zeitlich stabile und eindeutige Wohnungs-ID) und die Informationen zur Bewohnerschaft (Haushaltstyp, Anzahl Personen) je Belegungsjahr kombiniert. 
+### Info des Herausgebers: XXX
+abcd
