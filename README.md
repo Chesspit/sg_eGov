@@ -4,7 +4,7 @@
 
 Diese App nutzt Llamaindex und das "Open-Source-Framework" Dash für die Implementierung eines RAG-unterstützten Chatbots zur Befragung des eingebetteten PDFs.
 
-!eGov](eGov_gh.png)
+![eGov](eGov_gh.png)
 
 ---
 
@@ -15,9 +15,6 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ---
 
-### Datensatz: XXX
-[Datenquelle](https://daten.stadt.sg.ch/explore/dataset/belegung-neu-erstellter-wohnungen-2011-2019/information/?disjunctive.ewid&disjunctive.belegungsjahr&disjunctive.bauperiode&disjunctive.quartiersgruppe&disjunctive.quartiersgruppe_name&disjunctive.wohnungsgroesse&disjunctive.anz_kinder&disjunctive.anz_erwachsene&disjunctive.hh_typ&disjunctive.hh_typ_label&disjunctive.erstellungsjahr)
-abcd
+### Dokument: 
+[Dokument](https://egovsg.ch/wp-content/uploads/2023/01/E-Government-Strategie-des-Kantons-St.Gallen-und-der-St.Galler-Gemeinden-2023-2026.pdf)
 
-### Info des Herausgebers: XXX
-abcd
