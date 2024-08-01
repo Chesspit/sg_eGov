@@ -1,7 +1,7 @@
 services:
   # See https://render.com/docs/blueprint-spec for more info on render blueprints
   - type: web
-    name: eGov_query
+    name: eGov
     region: oregon
     env: python
     plan: free
