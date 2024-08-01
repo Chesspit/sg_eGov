@@ -12,5 +12,3 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.9.5
-      - key: mapbox_token
-        value: pk.eyJ1IjoicGV0ZXJrbGluZ3MiLCJhIjoiY2xrdjFibWQ5MDRwazNwbXpzZ25lMjExaCJ9.GMu5L5oiUNC4ddMHjS_NjQ      
