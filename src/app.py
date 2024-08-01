@@ -16,6 +16,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 # Initialize Dash app
 app = dash.Dash(__name__, assets_folder='assets')
+server = app.server
 
 # Load and index your data
 documents = SimpleDirectoryReader("egov").load_data()
