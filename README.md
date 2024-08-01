@@ -17,5 +17,5 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ### Quelle Dokument: 
 "https://egovsg.ch/wp-content/uploads/2023/01/E-Government-Strategie-des-Kantons-St.Gallen-und-der-St.Galler-Gemeinden-2023-2026.pdf"
-[Dokument](https://egovsg.ch/wp-content/uploads/2023/01/E-Government-Strategie-des-Kantons-St.Gallen-und-der-St.Galler-Gemeinden-2023-2026.pdf)
+
 
